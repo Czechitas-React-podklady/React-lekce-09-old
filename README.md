@@ -10,4 +10,5 @@ Tento repozitář obsahuje podklady a cvičení pro 9. lekci kurzu React od Czec
 ## Komunikace mezi sourozenci
 
 - [Cvičení 1 - Dotazník](./cviceni-01-dotaznik/README.md)
-- [Cvičení 2 - Zvířatka](./cviceni-02-zviratka/README.md)
+- [Cvičení 2 - Zvířatka](https://github.com/Czechitas-React-podklady/Cviceni-Zviratka)
+	Zvířátka jsou v samostatném repozitáři, postupuj podle návodu v něm.
